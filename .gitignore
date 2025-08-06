@@ -1,0 +1,15 @@
+*.env
+*DS_Store
+*profiles.yml
+*/horrorland
+*/jaffle_shop
+*/logs
+*/log
+dbtpro/
+*/dbtpro
+__pycache__/
+*.pyc
+.env
+.envrc
+.idea/
+.vscode/
