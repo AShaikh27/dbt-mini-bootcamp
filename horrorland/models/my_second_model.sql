@@ -1,3 +1,2 @@
-{{ config(materialized = 'table')}}
-
-select 1 as id, 2 as joke
+select *
+from dev_database.ahmed.my_first_model
